@@ -26,9 +26,9 @@ The technologies used were minimal; it only requires a laptop that contains micr
 
 4. Starting from the top left corner, fill the board so that it's all one color by saying the colors of adjacent blocks aloud! 
 
-#ISSUES
+## ISSUES
 There were a few issues while building the game with speech recognition. One was that words other than the colors were being counted as points, even though the code only limited the counter to increase if one of the colors were said out loud. 
 
-#FUTURE WORK
+## FUTURE WORK
 A fundemental goal for future work would be to provide additional forms of input for a broader audience of users. One such step in that direction would be to perfect implementing hand gestures as an additional form of input. This could be an integral addition, as it can be used as a form of rehabilitation therapy for motor skills. Also, those with limited speech woudld also have a difficult playing at the current version. Furthermore, other forms of input like a joy stick, or head/facial tracking could all be next steps to delve into that weren't able to be fleshed out during the duration of this course project.
 
